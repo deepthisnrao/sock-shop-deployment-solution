@@ -1,4 +1,4 @@
-# DevOps Test Project
+# DevOps Project
 
 ## Requirement overview
 
