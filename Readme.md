@@ -104,7 +104,7 @@ Date deployment was updated
 
 ## Running and testing the tool
 
-![](images/test-output)
+![](images/test-output.png)
 
 ## Future improvements / Enhancement
 
